@@ -1,2 +1,9 @@
 persist.vendor.camera.exif.model=Mi 6X
 persist.sys.exif.model=Mi 6X
+
+# PPUI
+ro.ppui.device_name=Xiaomi Mi 6X
+ro.ppui.version=3.5
+ro.ppui.version_code=Jasper
+ro.ppui.is_official=true
+ro.ppui.maintainer_name=Christian de la Cruz
