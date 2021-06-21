@@ -35,8 +35,8 @@ TARGET_INCLUDE_LIVE_WALLPAPERS := true
 
 PRODUCT_PROPERTY_OVERRIDES += \
 	ro.ppui.device_name=wayne \
-	ro.ppui.version=3.5 \
-	ro.ppui.version_code=Jasper \
+	ro.ppui.version=3.6 \
+	ro.ppui.version_code=Unicorn \
 	ro.ppui.is_official=true \
 	ro.ppui.maintainer_name=chdelacr
 
