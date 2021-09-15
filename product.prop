@@ -1,0 +1,6 @@
+# PPUI
+ro.ppui.device_name=Xiaomi Mi 6X
+ro.ppui.version=3.9
+ro.ppui.version_code=Eternal
+ro.ppui.is_official=true
+ro.ppui.maintainer_name=Christian de la Cruz

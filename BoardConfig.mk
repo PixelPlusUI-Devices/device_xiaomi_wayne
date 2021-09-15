@@ -31,6 +31,7 @@ DEVICE_PATH := device/xiaomi/wayne
 
 # Properties
 TARGET_SYSTEM_PROP := $(DEVICE_PATH)/system.prop
+TARGET_PRODUCT_PROP := $(DEVICE_PATH)/product.prop
 
 # Toolbox
 TW_USE_TOOLBOX := true
